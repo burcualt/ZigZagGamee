@@ -43,6 +43,11 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    void YokEt(GameObject zemin)
+    {
+        Destroy(zemin);
+    }
+
 
 
 
